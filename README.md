@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 Моя статистика на GitHub
-
-<!-- Замените username=ваш-ник на ваш реальный ник на GitHub -->
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180"/>
-</p>
