@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 📊 Моя активность на GitHub
-
-[![Tatyana's GitHub Activity Graph](https://vercel.app)](https://github.com)
